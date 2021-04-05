@@ -154,5 +154,5 @@ todolist/migrations/*
 
 !todolist/migrations/__init__.py
 !todolist/__init__.py
-!WhYtodoList/__init__.py
+!WhYtodoList/WhYtodoList/__init__.py
 !__init__.py
